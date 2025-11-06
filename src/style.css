@@ -94,3 +94,18 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
+
+header {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+h1 {
+
+}
+
+#link-list {
+  display: flex;
+  flex-direction: column;
+}
